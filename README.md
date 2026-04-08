@@ -276,4 +276,6 @@ Python · Machine Learning · Finance · Econometrics
 - *NIFTY 50 GARCH Volatility Analysis*
 - *NIFTY 50 War-Aware Direction Predictor (this project)*
 
+> **Disclaimer:** This project is for educational and portfolio purposes only. It does not constitute financial advice.
+
 > *"Markets can remain irrational longer than geopolitical crises can last — but the data always leaves a trace."*
