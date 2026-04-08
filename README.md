@@ -137,15 +137,15 @@ Unlike standard ML finance projects that use only price-based features, this mod
 | Rank | Feature | Score | Category |
 |------|---------|-------|----------|
 | 1 | `Return_1d` | 0.075 | Technical |
-| 2 | `Oil_change` | 0.060 | 📊 Global |
-| 3 | `VIX_MA5` | 0.049 | 📊 Global |
+| 2 | `Oil_change` | 0.060 | Global |
+| 3 | `VIX_MA5` | 0.049 | Global |
 | 4 | `RSI_14` | 0.048 | Technical |
-| 5 | `USDINR_change` | 0.046 | 📊 Global |
-| 6 | `Oil_MA5` | 0.046 | 📊 Global |
+| 5 | `USDINR_change` | 0.046 | Global |
+| 6 | `Oil_MA5` | 0.046 | Global |
 | 7 | `BB_position` | 0.044 | Technical |
 | 8 | `Vol_5d` | 0.043 | Technical |
 | 9 | `Vol_20d` | 0.043 | Technical |
-| 10 | `VIX_change` | 0.042 | 📊 Global |
+| 10 | `VIX_change` | 0.042 | Global |
 
 > **Key insight:** 4 of the top 6 features are Global Market signals — confirming that **crude oil, VIX, and exchange rate movements** (all heavily influenced by geopolitical events) are among the strongest predictors of NIFTY direction.
 
@@ -245,7 +245,7 @@ A real trading strategy must account for brokerage, slippage, and taxes — whic
 
 ---
 
-## 🛠️ Tools & Libraries
+## Tools & Libraries
 
 - **Python** — pandas, numpy, matplotlib
 - **scikit-learn** — RandomForestClassifier, metrics, cross-validation
@@ -254,7 +254,7 @@ A real trading strategy must account for brokerage, slippage, and taxes — whic
 
 ---
 
-## 📚 References
+## References
 
 - Breiman, L. (2001). *Random Forests*. Machine Learning, 45(1), 5–32.
 - Fama, E.F. (1970). *Efficient Capital Markets*. Journal of Finance.
