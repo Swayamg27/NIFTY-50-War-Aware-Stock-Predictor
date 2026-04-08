@@ -154,25 +154,25 @@ Unlike standard ML finance projects that use only price-based features, this mod
 ## Visualisations
 
 ### Feature Importance (War-Aware)
-![Feature Importance](charts/Feature importance.png)
+![Feature Importance](charts/Feature_importance.png)
 
 ### Geopolitical Sentiment vs NIFTY + VIX (2015–2024)
-![Sentiment Timeline](charts/Sentiment timeline.png)
+![Sentiment Timeline](charts/Sentiment_timeline.png)
 
 ### Confusion Matrix
-![Confusion Matrix](charts/Confusion matrix.png)
+![Confusion Matrix](charts/Confusion_matrix.png)
 
 ### ROC Curve
-![ROC Curve](charts/ROC curve.png)
+![ROC Curve](charts/ROC_curve.png)
 
 ### Accuracy by Market Regime
-![Regime Accuracy](charts/Regime accuracy.png)
+![Regime Accuracy](charts/Regime_accuracy.png)
 
 ### Predictions vs Reality (2023–2024)
-![Prediction Timeline](charts/Prediction timeline.png)
+![Prediction Timeline](charts/Prediction_timeline.png)
 
 ### Cross-Validation Scores
-![CV Scores](charts/CV scores.png)
+![CV Scores](charts/CV_scores.png)
 
 ---
 
